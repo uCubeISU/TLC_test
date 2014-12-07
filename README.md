@@ -1,5 +1,2 @@
-TLC_test
-========
-Kris smells funny
+Hello this is a test of the TLC stuff
 
-Hopefully this works.
